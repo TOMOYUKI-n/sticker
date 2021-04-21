@@ -1,14 +1,12 @@
 # sticker
 
 ## About
-ブラウザ上で簡単にメモが取れます。
-
-Google Chromeでご利用ください。
+ブラウザ上で簡単にメモが取れる簡易なアプリケーション
+Google Chromeで利用可能
 
 利用ライブラリ
 ・packery
 ・vuetify
-・PWA対応
 
 ## Project setup
 ```
